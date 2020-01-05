@@ -1,0 +1,15 @@
+{
+    "name": "areyes-webpack-plugin",
+    "version": "1.0.0",
+    "description": "Webpack плагин для добавления комментариев в скомпилированный файл",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "AREYES.STUDIO",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://gitlab.com/areyes.studio/webpack-plugin/issues"
+    },
+    "homepage": "https://gitlab.com/areyes.studio/webpack-plugin#readme"
+}
