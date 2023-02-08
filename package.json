@@ -1,15 +1,12 @@
 {
-    "name": "areyes-webpack-plugin",
-    "version": "1.0.0",
-    "description": "Webpack плагин для добавления комментариев в скомпилированный файл",
+    "name": "@areyes-studio/webpack-compilation-modifier-plugin",
+    "version": "1.1.0",
+    "description": "Webpack plugin that enhances the compilation process by adding a custom prefix and suffix to it",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
     "author": "AREYES.STUDIO",
-    "license": "UNLICENSED",
-    "bugs": {
-        "url": "https://gitlab.com/areyes.studio/webpack-plugin/issues"
-    },
-    "homepage": "https://gitlab.com/areyes.studio/webpack-plugin#readme"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/areyes-studio/webpack-compilation-modifier-plugin"
+    }
 }
