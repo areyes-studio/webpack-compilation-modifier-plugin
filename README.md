@@ -27,9 +27,9 @@ const WebpackCompilationModifierPlugin = require('@areyes-studio/webpack-compila
 ## Options
 The constructor for the plugin takes three parameters:
 
-**fileName (string):** The file name that the prefix and suffix should be added to.
-**prefix (string):** The text to add before the compiled code.
-**suffix (string):** The text to add after the compiled code.
+**fileName (string):** The file name that the prefix and suffix should be added to.<br/>
+**prefix (string):** The text to add before the compiled code.<br/>
+**suffix (string):** The text to add after the compiled code.<br/>
 
 ## License
 This project is licensed under the MIT license.
