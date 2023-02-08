@@ -8,7 +8,7 @@ A simple and flexible plugin that enhances the webpack compilation process by ad
 ## Usage
 In your project's webpack.config.js file, add the following under the plugins key in config:
 
-const WebpackCompilationModifierPlugin = require('@areyes-studio/webpack-compilation-modifier-plugin')
+    const WebpackCompilationModifierPlugin = require('@areyes-studio/webpack-compilation-modifier-plugin')
 
     module.exports = {
     // ...
