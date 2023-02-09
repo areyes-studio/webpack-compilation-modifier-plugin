@@ -1,6 +1,6 @@
 {
     "name": "@areyes-studio/webpack-compilation-modifier-plugin",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Webpack plugin that enhances the compilation process by adding a custom prefix and suffix to it",
     "main": "index.js",
     "author": "AREYES.STUDIO",
